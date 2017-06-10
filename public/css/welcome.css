@@ -1,0 +1,176 @@
+.carousel-inner{
+	height: 60%;
+}
+.carousel-inner img{
+
+   width: cover;
+   height: 65%;
+
+ } 
+
+#myCarousel{
+	
+	margin-bottom: 10%;
+}
+
+.header{
+
+	margin-top: 60px;
+	margin-bottom: 45px;
+
+}
+
+.header .head1{
+	text-align: center;
+	font-family: Trebuchet MS sans-serif;
+	font-variant: small-caps;
+	color: #329386;
+	padding-bottom: 5%;
+}
+
+.head1 small{
+	color: #98c9c2;
+}
+
+
+.panel-group{
+	background-color: #a3dbf6;
+	text-align: center;
+	text-decoration: none;
+	font-family: Trebuchet MS, sans-serif;
+	margin-bottom: 100px;
+}
+.panel-body{
+	font-family: Trebuchet MS, sans-serif;
+	font-size: 16px;
+	text-align:center;
+	color: #080c17;
+}
+
+#home{
+
+	 margin-bottom: 10%;
+	 padding-top: 40px;
+	 padding-bottom: 40px;
+	 padding-left: 40px;
+	 padding-right: 40px;
+}
+
+
+header .bottomhead{
+	text-align: center;
+	font-family: Trebuchet MS sans-serif;
+	font-variant: small-caps;
+	color: #329386;
+	margin-bottom: 10%;
+}
+
+.col-md-4 a:link{
+	text-decoration: none;
+}
+
+.col-md-4 a:hover{
+	text-decoration: none;
+	color: #329386;
+}
+
+.row{
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+.col-md-4{
+	padding-left: 6%;
+}
+
+#product{
+	margin-top: 12%;
+	margin-bottom: 20%;
+}
+
+#gallery{
+
+	margin-top: 12%;
+	margin-bottom: 20%;
+}
+
+#product #gallery #news p{
+	font-size: 14px;
+	font-family: Lucida, Helvetica, sans-serif;
+}
+
+#aboutus{
+	margin-top: 12%;
+	margin-bottom: 20%;
+}
+
+.w3-card-4{
+
+	height: 27%;
+	margin-left: 15%;
+}
+
+.w3-card-4 header h2{
+
+	text-align:center;
+	font-family: Trebuchet MS, sans-serif;
+}
+
+#aboutus .w3-card-12{
+	margin-left: 15%;
+	height: 49%;
+}
+
+#service{
+	margin-bottom: 20%;
+}
+
+#service p{
+	font-size: 15px;
+	font-family: helvetica, sans-serif;
+}
+
+.logo-small {
+
+     color: #f4511e;
+     font-size: 50px;
+}
+
+.logo {
+    color: #f4511e;
+    font-size: 200px;
+  }
+
+
+#news{
+	margin-bottom: 20%;
+}
+
+#contact{
+	margin-bottom: 20%;
+	margin-left: 3%;
+}
+
+textarea{
+
+	width: 50px;
+}
+
+.para2{
+
+	text-align: center;
+	font-family: Verdana sans-serif;
+	font-size: 17px;
+	padding-top: 50px;
+	padding-left: 50px;
+	padding-right: 50px;
+
+}
+
+
+
+.well p{
+	text-align: center;
+}
+
+

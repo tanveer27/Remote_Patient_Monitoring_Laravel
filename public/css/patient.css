@@ -1,0 +1,30 @@
+#cover-pic{
+  
+  height: 350px;
+}
+
+img{
+  width: cover;
+}
+
+#header{
+  margin-top: 50px;
+  height: 150px;
+}
+
+#header #head1{
+  text-align: center;
+  font-family: Trebuchet MS sans-serif;
+  font-variant: small-caps;
+  color: #329386;
+}
+
+#head1 small{
+  color: #98c9c2;
+}
+
+
+footer{
+  height: 40px;
+  border-top: 1px solid #b7b7b7;
+}

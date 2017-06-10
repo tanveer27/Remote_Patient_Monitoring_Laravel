@@ -1,0 +1,39 @@
+h2 .heading{
+
+  font-variant: small-caps;
+  color: #00c5cd;
+  font-family: Trebuchet MS, sans-serif;
+  text-align: center;
+  padding-bottom: 40px;
+}
+
+
+#left{
+  padding-left: 50px; 
+  width: 350px;
+  margin-bottom: 50px;
+}
+
+#right{
+  float: right;
+  width: 350px;
+  margin-right: 200px;
+  margin-top: -375px;
+  
+}
+
+.table-nonfluid{
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom: 30px;
+}
+
+table thead{
+  font-weight: 500;
+  font-family: Trebuchet MS, sans-serif;
+  background-color: #00c5cd;
+}
+
+td:hover{
+  background-color:#f5f5f5;
+}

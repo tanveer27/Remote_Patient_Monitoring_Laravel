@@ -1,0 +1,116 @@
+#header{
+  margin-top: 50px;
+  height: 150px;
+}
+
+#header #head1{
+  text-align: center;
+  font-family: Trebuchet MS sans-serif;
+  font-variant: small-caps;
+  color: #329386;
+}
+
+#head1 small{
+  color: #98c9c2;
+}
+
+.heading{
+
+  font-variant: small-caps;
+  color: #00c5cd;
+  font-family: Trebuchet MS, sans-serif;
+  padding-top: 30px;
+  padding-bottom: 20px;
+  padding-left: 100px;
+}
+
+.menu{
+
+  margin-bottom: 13%;
+  margin-left: 12%;
+  margin-right: 12%;
+}
+
+.personalinfo{
+  margin-left: 9%;
+  margin-right: 10%;
+  margin-bottom: 5%
+}
+
+
+#prescription{
+
+  font-variant: small-caps;
+  color: #00c5cd;
+  font-family: Trebuchet MS, sans-serif;
+  margin-top: 70px;
+  padding-top: 30px;
+  padding-bottom: 20px;
+  padding-left: 100px
+}
+
+
+p{
+font-size: 19px;
+font-family: Trebuchet MS, sans-serif;
+padding-bottom: 15px;
+
+}
+
+
+.table-nonfluid{
+  margin-top: 5px;
+  margin-left: 5px;
+  margin-right: 5px;
+  text-align: center;
+ 
+}
+
+table thead{
+  font-weight: 500;
+  font-family: Trebuchet MS, sans-serif;
+  background-color: #00c5cd;
+}
+
+td:hover{
+  background-color:#f5f5f5;
+}
+
+td a:hover{
+  text-decoration: none;
+}
+td a:visited{
+  color: #d46d5c;
+}
+
+
+#bp_table{
+  font-family: Trebuchet MS, sans-serif;
+  font-size: 25px;
+  color: #00c5cd;
+  padding-bottom: 12px;
+  padding-top: 10px;
+  text-align: center;
+  font-variant: small-caps;
+}
+.form-group input{
+  margin-left: 4px;
+  margin-right: 7px;
+  margin-bottom: 6px;
+}
+
+.message{
+  width: 250px;
+  padding-bottom: 20px;
+}
+
+.message p{
+  font-size: 20px;
+  color: #00c5cd;
+  font-family: Trebuchet MS, sans-serif;
+}
+
+.well p{
+  text-align: center;
+}
+
